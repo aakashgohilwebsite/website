@@ -1,0 +1,122 @@
+{
+  "assetsByChunkName": {
+    "path---visacompany": [
+      "path---visacompany-a0e39f21c11f6a62c5ab.js",
+      "path---visacompany-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-ed9b249666d080932111.js",
+      "component---src-pages-index-js-ed9b249666d080932111.js.map"
+    ],
+    "component---src-pages-vh-1-supersonic-js": [
+      "component---src-pages-vh-1-supersonic-js-209f7658ae40bd6d1783.js",
+      "component---src-pages-vh-1-supersonic-js-209f7658ae40bd6d1783.js.map"
+    ],
+    "path---": [
+      "path----9b0352d5b4781ddcd9d9.js",
+      "path----9b0352d5b4781ddcd9d9.js.map"
+    ],
+    "path---vh-1-supersonic": [
+      "path---vh-1-supersonic-a0e39f21c11f6a62c5ab.js",
+      "path---vh-1-supersonic-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---vwtiguan": [
+      "path---vwtiguan-a0e39f21c11f6a62c5ab.js",
+      "path---vwtiguan-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---ebayindia": [
+      "path---ebayindia-a0e39f21c11f6a62c5ab.js",
+      "path---ebayindia-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-flyerdesign-js": [
+      "component---src-pages-flyerdesign-js-c52fad813480c2425e31.js",
+      "component---src-pages-flyerdesign-js-c52fad813480c2425e31.js.map"
+    ],
+    "path---penguin": [
+      "path---penguin-a0e39f21c11f6a62c5ab.js",
+      "path---penguin-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c34b7fca94fe39044e3c.js",
+      "component---src-layouts-index-js-c34b7fca94fe39044e3c.js.map"
+    ],
+    "component---src-pages-vwdealership-js": [
+      "component---src-pages-vwdealership-js-81e5ef72b325c6432d4a.js",
+      "component---src-pages-vwdealership-js-81e5ef72b325c6432d4a.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-penguin-js": [
+      "component---src-pages-penguin-js-a42f2fe4194473f9f4cf.js",
+      "component---src-pages-penguin-js-a42f2fe4194473f9f4cf.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-877f0b543524b75aa7a9.js",
+      "component---src-pages-404-js-877f0b543524b75aa7a9.js.map"
+    ],
+    "commons": [
+      "commons-b71e7233220735cda602.js",
+      "commons-b71e7233220735cda602.js.map"
+    ],
+    "path---flyerdesign": [
+      "path---flyerdesign-a0e39f21c11f6a62c5ab.js",
+      "path---flyerdesign-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---boscojack": [
+      "path---boscojack-a0e39f21c11f6a62c5ab.js",
+      "path---boscojack-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---vwemailers": [
+      "path---vwemailers-a0e39f21c11f6a62c5ab.js",
+      "path---vwemailers-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-vwtiguan-js": [
+      "component---src-pages-vwtiguan-js-15cbeee16aa97959075e.js",
+      "component---src-pages-vwtiguan-js-15cbeee16aa97959075e.js.map"
+    ],
+    "component---src-pages-ebayindia-js": [
+      "component---src-pages-ebayindia-js-f092d7596cad629bef06.js",
+      "component---src-pages-ebayindia-js-f092d7596cad629bef06.js.map"
+    ],
+    "path---vwdealership": [
+      "path---vwdealership-a0e39f21c11f6a62c5ab.js",
+      "path---vwdealership-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-boscojack-js": [
+      "component---src-pages-boscojack-js-261a9fe21acadd45c7b6.js",
+      "component---src-pages-boscojack-js-261a9fe21acadd45c7b6.js.map"
+    ],
+    "app": [
+      "app-c67c822e5ff1d32a9bd7.js",
+      "build-js-styles.css",
+      "app-c67c822e5ff1d32a9bd7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-vwemailers-js": [
+      "component---src-pages-vwemailers-js-640f1c199662d23ee98f.js",
+      "component---src-pages-vwemailers-js-640f1c199662d23ee98f.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-fe6126ab6b6d20a6ae02.js",
+      "component---src-pages-about-js-fe6126ab6b6d20a6ae02.js.map"
+    ],
+    "component---src-pages-visacompany-js": [
+      "component---src-pages-visacompany-js-e83e9ef9dab0e1b0fc07.js",
+      "component---src-pages-visacompany-js-e83e9ef9dab0e1b0fc07.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
